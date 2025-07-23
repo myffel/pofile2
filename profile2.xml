@@ -25,8 +25,12 @@
 
 	<ServerList>
 	    <HostEntry>
-	            <HostName>01.移动电信推荐用美国，联通推荐日本或美国wy</HostName>
-	            <HostAddress>lax.shangins.uk</HostAddress>
+	            <HostName>00.移动电信推荐用美国，联通推荐日本或美国wy</HostName>
+	            <HostAddress>sv.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>01.🇺🇸美国sv - 支持GPT</HostName>
+	            <HostAddress>sv.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>02.🇺🇸美国sfo - 支持GPT</HostName>
