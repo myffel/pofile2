@@ -119,21 +119,10 @@
 		<HostEntry>
 	            <HostName>23.🇬🇧英国uk</HostName>
 	            <HostAddress>uk.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>24.🇮🇱以色列 - 支持GPT</HostName>
-	            <HostAddress>il.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>25.🇧🇷巴西paul - 支持GPT</HostName>
-	            <HostAddress>paul.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>26.🇮🇳印度sea</HostName>
-	            <HostAddress>sea.shangins.uk</HostAddress>
-		</HostEntry>
+		</HostEntry>		
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
