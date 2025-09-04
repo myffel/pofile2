@@ -102,7 +102,7 @@
 		</HostEntry>
 		<HostEntry>
 	            <HostName>19.🇸🇬新加坡 - 支持GPT</HostName>
-	            <HostAddress>sgp.shangins.uk</HostAddress>
+	            <HostAddress>xjp.shangins.uk</HostAddress>
 		</HostEntry>
 	    <HostEntry>
 	            <HostName>20.🇹🇭泰国ec-支持GPT</HostName>
@@ -122,6 +122,7 @@
 		</HostEntry>		
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
