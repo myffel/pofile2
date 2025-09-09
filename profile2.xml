@@ -83,7 +83,11 @@
 		<HostEntry>
 	            <HostName>14.🇭🇰香港-苏粤豫闽渝适用</HostName>
 	            <HostAddress>46.8.127.234</HostAddress>
-		</HostEntry>		
+		</HostEntry>
+		<HostEntry>
+	            <HostName>15.🇭🇰香港2线</HostName>
+	            <HostAddress>hk7.shangins.uk</HostAddress>
+		</HostEntry>
 		<HostEntry>
 	            <HostName>15.🇸🇬新加坡 - 国内中转</HostName>
 	            <HostAddress>sh.shangins.uk:444</HostAddress>
@@ -114,6 +118,7 @@
 		</HostEntry>		
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
