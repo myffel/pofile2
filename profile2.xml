@@ -82,7 +82,7 @@
 		</HostEntry>
 		<HostEntry>
 	            <HostName>14.🇭🇰香港-苏粤豫闽渝适用</HostName>
-	            <HostAddress>46.8.127.234</HostAddress>
+	            <HostAddress>156.245.239.234</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>15.🇭🇰香港2线</HostName>
@@ -122,6 +122,7 @@
 		</HostEntry>		
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
