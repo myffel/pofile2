@@ -45,14 +45,6 @@
 	            <HostAddress>id.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>05.🇺🇸美国wy联通优化-支持GPT</HostName>
-	            <HostAddress>wy.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>06.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
-	            <HostAddress>172.104.105.143</HostAddress>
-		</HostEntry>
-		<HostEntry>
 	            <HostName>07.🇦🇺澳大利亚au</HostName>
 	            <HostAddress>au.shangins.uk</HostAddress>
 		</HostEntry>
@@ -118,6 +110,7 @@
 		</HostEntry>		
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
