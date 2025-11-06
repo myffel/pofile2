@@ -33,11 +33,15 @@
 	            <HostAddress>sv.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
+	            <HostName>01.🇺🇸美国sv-苏粤豫闽渝适用</HostName>
+	            <HostAddress>137.175.80.129</HostAddress>
+		</HostEntry>
+		<HostEntry>
 	            <HostName>02.🇺🇸美国oc</HostName>
 	            <HostAddress>oc.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>03.🇺🇸美国sd-支持智能分流</HostName>
+	            <HostName>03.🇺🇸美国sd</HostName>
 	            <HostAddress>sd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -122,6 +126,7 @@
 		</HostEntry>		
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
