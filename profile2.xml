@@ -33,7 +33,7 @@
 	            <HostAddress>sv.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>01.🇺🇸美国oc-苏粤豫闽渝适用</HostName>
+	            <HostName>02.🇺🇸美国oc-苏粤豫闽渝适用</HostName>
 	            <HostAddress>107.149.146.82</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -89,7 +89,7 @@
 	            <HostAddress>156.245.239.234</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>15.🇭🇰香港2线</HostName>
+	            <HostName>15.🇭🇰香港2线 - 空闲</HostName>
 	            <HostAddress>hk7.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -126,6 +126,7 @@
 		</HostEntry>		
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
