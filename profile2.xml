@@ -89,6 +89,10 @@
 	            <HostAddress>156.245.239.234</HostAddress>
 		</HostEntry>
 		<HostEntry>
+	            <HostName>15.🇭🇰香港2线 - 空闲</HostName>
+	            <HostAddress>hk7.shangins.uk</HostAddress>
+		</HostEntry>	
+		<HostEntry>
 	            <HostName>16.🇵🇭菲律宾</HostName>
 	            <HostAddress>mn.shangins.uk</HostAddress>
 		</HostEntry>
@@ -122,6 +126,7 @@
 		</HostEntry>		
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
