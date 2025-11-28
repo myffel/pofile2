@@ -55,69 +55,74 @@
 		<HostEntry>
 	            <HostName>06.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
 	            <HostAddress>172.104.105.143</HostAddress>
-		</HostEntry>
+		</HostEntry>		
 		<HostEntry>
-	            <HostName>07.🇦🇺澳大利亚au</HostName>
-	            <HostAddress>au.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>08.🇦🇺澳大利亚au-苏粤豫闽渝适用</HostName>
-	            <HostAddress>170.64.226.223</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>09.🇨🇦加拿大da</HostName>
-	            <HostAddress>da.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>10.🇲🇽墨西哥ion</HostName>
-	            <HostAddress>ion.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>11.🇯🇵日本</HostName>
+	            <HostName>07.🇯🇵日本</HostName>
 	            <HostAddress>jp.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>12.🇹🇼台湾</HostName>
+	            <HostName>08.🇯🇵日本-苏粤豫闽渝适用</HostName>
+	            <HostAddress>172.105.192.174</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>09.🇯🇵日本-国内中转三网优化</HostName>
+	            <HostAddress>sh.shangins.uk:444</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>10.🇹🇼台湾</HostName>
 	            <HostAddress>tw.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>13.🇭🇰香港</HostName>
+	            <HostName>11.🇭🇰香港</HostName>
 	            <HostAddress>hk5.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>14.🇭🇰香港-苏粤豫闽渝适用</HostName>
+	            <HostName>12.🇭🇰香港-苏粤豫闽渝适用</HostName>
 	            <HostAddress>156.245.239.234</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>15.🇵🇭菲律宾</HostName>
+	            <HostName>13.🇵🇭菲律宾</HostName>
 	            <HostAddress>mn.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>16.🇸🇬新加坡</HostName>
+	            <HostName>14.🇸🇬新加坡</HostName>
 	            <HostAddress>hk7.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>17.🇲🇾马来西亚</HostName>
+	            <HostName>15.🇲🇾马来西亚</HostName>
 	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>18.🇰🇷韩国kr</HostName>
+	            <HostName>16.🇰🇷韩国kr</HostName>
 	            <HostAddress>hg.shangins.uk</HostAddress>
-		</HostEntry>	    
+		</HostEntry>
 		<HostEntry>
-	            <HostName>19.🇩🇪德国la</HostName>
+	            <HostName>17.🇦🇺澳大利亚au</HostName>
+	            <HostAddress>au.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>18.🇨🇦加拿大da</HostName>
+	            <HostAddress>da.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>19.🇲🇽墨西哥ion</HostName>
+	            <HostAddress>ion.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>20.🇩🇪德国la</HostName>
 	            <HostAddress>la.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>20.🇫🇷法国cd</HostName>
+	            <HostName>21.🇫🇷法国cd</HostName>
 	            <HostAddress>cd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>21.🇬🇧英国uk</HostName>
+	            <HostName>22.🇬🇧英国uk</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>		
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
