@@ -119,9 +119,14 @@
 		<HostEntry>
 	            <HostName>22.🇬🇧英国uk</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
-		</HostEntry>		
+		</HostEntry>
+		<HostEntry>
+	            <HostName>23.🇹🇭泰国</HostName>
+	            <HostAddress>ec.shangins.uk</HostAddress>
+		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
