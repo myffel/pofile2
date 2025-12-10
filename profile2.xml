@@ -78,7 +78,7 @@
 		</HostEntry>
 		<HostEntry>
 	            <HostName>11.🇭🇰香港</HostName>
-	            <HostAddress>hk5.shangins.uk</HostAddress>
+	            <HostAddress>hk7.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>12.🇭🇰香港-苏粤闽适用</HostName>
@@ -130,5 +130,6 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
