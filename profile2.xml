@@ -58,7 +58,7 @@
 		</HostEntry>		
 		<HostEntry>
 	            <HostName>07.🇯🇵日本</HostName>
-	            <HostAddress>jp.shangins.uk</HostAddress>
+	            <HostAddress>jp3.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>08.🇯🇵日本-苏粤闽适用</HostName>
@@ -130,6 +130,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
