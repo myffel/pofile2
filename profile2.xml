@@ -41,8 +41,8 @@
 	            <HostAddress>sv.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>03.🇺🇸美国san</HostName>
-	            <HostAddress>san.shangins.uk</HostAddress>
+	            <HostName>03.🇺🇸美国sd</HostName>
+	            <HostAddress>sd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>04.🇺🇸美国id</HostName>
@@ -126,6 +126,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
