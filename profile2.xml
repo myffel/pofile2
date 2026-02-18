@@ -109,23 +109,16 @@
 	            <HostAddress>da.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>19.🇩🇪德国la</HostName>
-	            <HostAddress>la.shangins.uk</HostAddress>
-		</HostEntry>		
-		<HostEntry>
-	            <HostName>20.🇬🇧英国uk</HostName>
+	            <HostName>19.🇬🇧英国uk</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>21.🇮🇩印度尼西亚</HostName>
-	            <HostAddress>hk8.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>22.🇹🇭泰国</HostName>
+	            <HostName>20.🇹🇭泰国</HostName>
 	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
