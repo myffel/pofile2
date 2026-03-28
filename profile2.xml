@@ -63,45 +63,49 @@
 		<HostEntry>
 	            <HostName>08.🇯🇵日本-苏粤闽适用</HostName>
 	            <HostAddress>172.238.15.59</HostAddress>
-		</HostEntry>		
+		</HostEntry>
 		<HostEntry>
-	            <HostName>09.🇹🇼台湾</HostName>
+	            <HostName>09.🇯🇵日本2-联通移动适用</HostName>
+	            <HostAddress>jp2.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>10.🇹🇼台湾</HostName>
 	            <HostAddress>tw.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>10.🇹🇼台湾-苏粤闽适用</HostName>
+	            <HostName>11.🇹🇼台湾-苏粤闽适用</HostName>
 	            <HostAddress>207.56.137.149</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>11.🇭🇰香港</HostName>
+	            <HostName>12.🇭🇰香港</HostName>
 	            <HostAddress>hk5.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>12.🇭🇰香港-苏粤闽适用</HostName>
+	            <HostName>13.🇭🇰香港-苏粤闽适用</HostName>
 	            <HostAddress>156.245.239.234</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>13.🇸🇬新加坡</HostName>
+	            <HostName>14.🇸🇬新加坡</HostName>
 	            <HostAddress>hk7.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>14.🇲🇾马来西亚</HostName>
+	            <HostName>15.🇲🇾马来西亚</HostName>
 	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>15.🇰🇷韩国-联通移动适用</HostName>
+	            <HostName>16.🇰🇷韩国-联通移动适用</HostName>
 	            <HostAddress>hg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>16.🇦🇺澳大利亚au</HostName>
+	            <HostName>17.🇦🇺澳大利亚au</HostName>
 	            <HostAddress>au.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>17.🇨🇦加拿大da</HostName>
+	            <HostName>18.🇨🇦加拿大da</HostName>
 	            <HostAddress>da.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>18.🇬🇧英国uk</HostName>
+	            <HostName>19.🇬🇧英国uk</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
